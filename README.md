@@ -1,2 +1,2 @@
-# C++-Deitel
+# C++ Deitel
 C++ Deitel programs
