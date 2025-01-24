@@ -1,0 +1,14 @@
+---------
+  hi.cpp
+---------  
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+  cout << "Hello World! ";
+  cout << "I'm a C++ program";
+  return 0;
+}
+
+g++ -o hi hi.cpp
